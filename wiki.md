@@ -1,4 +1,4 @@
-# Project Summary :robot:
+# Project Summary
 ![](https://images.unsplash.com/photo-1647514422086-18cde746fa26?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80)
 
 In recent years, **NFTs mania** has become a social phenomenon that attracts attention from different fields, however, people still know a little about the whole marketplace. **NFTs** is exactly an *innovation* which will bring changes in relationship between users and digital space, due to its usage as **electronic certificates**. In order to interpret the social interactions built between **users** and **NFTs**, this project will attempt to visualize the real **NFTs market** in the past few years.
